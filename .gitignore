@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/grpc-client/.vs/grpc-client/FileContentIndex
+/grpc-client/obj
+/grpc-client/bin
